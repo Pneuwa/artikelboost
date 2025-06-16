@@ -140,7 +140,7 @@ const WordForm = (isEditing = false) => {
         article,
         word: word.charAt(0).toUpperCase() + word.slice(1).toLowerCase(),
         case_name,
-        articleByCase,
+        articleByCase: case_name == "Nominativ" ? article : articleByCase,
         wordByCase:
           wordByCase.charAt(0).toUpperCase() +
           wordByCase.slice(1).toLowerCase(),
