@@ -1,0 +1,16 @@
+*.pyc
+*.pyo
+__pycache__/
+
+.venv/
+venv/
+
+.vscode/
+
+instance/
+*.log
+
+Pipfile.lock
+poetry.lock
+
+*.env

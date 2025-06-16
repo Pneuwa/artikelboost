@@ -1,0 +1,562 @@
+[
+  {
+    "id": "arzt-Nominativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "der",
+    "word": "Arzt",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Arzt",
+    "plural": "Ärzte",
+    "meaning": "doctor (male)",
+    "example": "Der Arzt untersucht den Patienten.",
+    "example_en": "The doctor examines the patient."
+  },
+  {
+    "id": "auto-Nominativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "das",
+    "word": "Auto",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Auto",
+    "plural": "Autos",
+    "meaning": "car",
+    "example": "Das Auto steht vor dem Haus.",
+    "example_en": "The car is parked in front of the house."
+  },
+  {
+    "id": "blau-Nominativ",
+    "article": "das",
+    "word": "Blau",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "",
+    "category": {
+      "name": "Colors",
+      "slug": "colors"
+    },
+    "plural": "Blautöne",
+    "meaning": "blue",
+    "example": "Das Blau des Himmels ist heute besonders intensiv.",
+    "example_en": "The blue of the sky is especially intense today."
+  },
+  {
+    "id": "brot-Nominativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "das",
+    "word": "Brot",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Brot",
+    "plural": "Brote",
+    "meaning": "bread",
+    "example": "Das Brot ist frisch gebacken.",
+    "example_en": "The bread is freshly baked."
+  },
+  {
+    "id": "bus-Nominativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "der",
+    "word": "Bus",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Bus",
+    "plural": "Busse",
+    "meaning": "bus",
+    "example": "Der Bus kommt pünktlich um acht Uhr.",
+    "example_en": "The bus arrives on time at eight o'clock."
+  },
+  {
+    "id": "backerei-Nominativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "die",
+    "word": "Bäckerei",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Bäckerei",
+    "plural": "Bäckereien",
+    "meaning": "bakery",
+    "example": "Die Bäckerei öffnet um sieben Uhr.",
+    "example_en": "The bakery opens at seven o'clock."
+  },
+  {
+    "id": "bücherregal-Nominativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "das",
+    "word": "Bücherregal",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Bücherregal",
+    "plural": "Bücherregale",
+    "meaning": "bookshelf",
+    "example": "Das Bücherregal steht in der Ecke.",
+    "example_en": "The bookshelf is in the corner."
+  },
+  {
+    "id": "farbe-Nominativ",
+    "article": "die",
+    "word": "Farbe",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "",
+    "category": {
+      "name": "Colors",
+      "slug": "colors"
+    },
+    "plural": "Farben",
+    "meaning": "color",
+    "example": "Die Farbe ist sehr lebendig.",
+    "example_en": "The color is very vibrant."
+  },
+  {
+    "id": "fluss-Nominativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "der",
+    "word": "Fluss",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Fluss",
+    "plural": "Flüsse",
+    "meaning": "river",
+    "example": "Der Fluss fließt durch die Stadt.",
+    "example_en": "The river flows through the city."
+  },
+  {
+    "id": "glück-Nominativ",
+    "article": "das",
+    "word": "Glück",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "",
+    "category": {
+      "name": "Emotions",
+      "slug": "emotions"
+    },
+    "plural": "-",
+    "meaning": "happiness / luck",
+    "example": "Das Glück ist manchmal nur einen Moment entfernt.",
+    "example_en": "Happiness is sometimes just a moment away."
+  },
+  {
+    "id": "hund-Nominativ",
+    "category": {
+      "name": "Animals",
+      "slug": "animals"
+    },
+    "article": "der",
+    "word": "Hund",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Hund",
+    "plural": "Hunde",
+    "meaning": "dog",
+    "example": "Der Hund bellt laut.",
+    "example_en": "The dog is barking loudly."
+  },
+  {
+    "id": "hunger-Nominativ",
+    "category": {
+      "name": "Emotions",
+      "slug": "emotions"
+    },
+    "article": "der",
+    "word": "Hunger",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Hunger",
+    "plural": "-",
+    "meaning": "hunger",
+    "example": "Der Hunger kommt plötzlich.",
+    "example_en": "The hunger comes suddenly."
+  },
+  {
+    "id": "kaffee-Nominativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "der",
+    "word": "Kaffee",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Kaffee",
+    "plural": "Kaffees",
+    "meaning": "coffee",
+    "example": "Der Kaffee ist heiß.",
+    "example_en": "The coffee is hot."
+  },
+  {
+    "id": "katze-Nominativ",
+    "category": {
+      "name": "Animals",
+      "slug": "animals"
+    },
+    "article": "die",
+    "word": "Katze",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Katze",
+    "plural": "Katzen",
+    "meaning": "cat",
+    "example": "Die Katze schläft auf dem Sofa.",
+    "example_en": "The cat is sleeping on the sofa."
+  },
+  {
+    "id": "kind-Nominativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "das",
+    "word": "Kind",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Kind",
+    "plural": "Kinder",
+    "meaning": "child",
+    "example": "Das Kind malt ein Bild.",
+    "example_en": "The child is drawing a picture."
+  },
+  {
+    "id": "lampe-Nominativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "die",
+    "word": "Lampe",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Lampe",
+    "plural": "Lampen",
+    "meaning": "lamp",
+    "example": "Die Lampe steht auf dem Tisch.",
+    "example_en": "The lamp is on the table."
+  },
+  {
+    "id": "lust-Nominativ",
+    "category": {
+      "name": "Emotions",
+      "slug": "emotions"
+    },
+    "article": "die",
+    "word": "Lust",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Lust",
+    "plural": "Lüste",
+    "meaning": "desire / pleasure / interest",
+    "example": "Die Lust auf Schokolade ist heute sehr groß.",
+    "example_en": "The desire for chocolate is very strong today."
+  },
+  {
+    "id": "milch-Nominativ",
+    "category": {
+      "name": "Food & Drinks",
+      "slug": "food-drinks"
+    },
+    "article": "die",
+    "word": "Milch",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Milch",
+    "plural": "-",
+    "meaning": "milk",
+    "example": "Die Milch ist frisch.",
+    "example_en": "The milk is fresh."
+  },
+  {
+    "id": "mutter-Nominativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "die",
+    "word": "Mutter",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Mutter",
+    "plural": "Mütter",
+    "meaning": "mother",
+    "example": "Die Mutter kocht das Abendessen.",
+    "example_en": "The mother is cooking dinner."
+  },
+  {
+    "id": "park-Nominativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "der",
+    "word": "Park",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Park",
+    "plural": "Parks",
+    "meaning": "park",
+    "example": "Der Park ist sehr grün und ruhig.",
+    "example_en": "The park is very green and quiet."
+  },
+  {
+    "id": "pferd-Nominativ",
+    "article": "das",
+    "word": "Pferd",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "",
+    "category": {
+      "name": "Animals",
+      "slug": "animals"
+    },
+    "plural": "Pferde",
+    "meaning": "horse",
+    "example": "Das Pferd läuft über die Wiese.",
+    "example_en": "The horse is running across the meadow."
+  },
+  {
+    "id": "pflanze-Nominativ",
+    "article": "die",
+    "word": "Pflanze",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "plural": "Pflanzen",
+    "meaning": "plant",
+    "example": "Die Pflanze braucht viel Sonnenlicht.",
+    "example_en": "The plant needs a lot of sunlight."
+  },
+  {
+    "id": "problem-Nominativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "das",
+    "word": "Problem",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Problem",
+    "plural": "Probleme",
+    "meaning": "problem",
+    "example": "Das Problem ist sehr kompliziert.",
+    "example_en": "The problem is very complicated."
+  },
+  {
+    "id": "restaurant-Nominativ",
+    "category": {
+      "name": "Places",
+      "slug": "places"
+    },
+    "article": "das",
+    "word": "Restaurant",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Restaurant",
+    "plural": "Restaurants",
+    "meaning": "restaurant",
+    "example": "Das Restaurant ist heute geöffnet.",
+    "example_en": "The restaurant is open today."
+  },
+  {
+    "id": "rotton-Nominativ",
+    "article": "der",
+    "word": "Rotton",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "",
+    "category": {
+      "name": "Colors",
+      "slug": "colors"
+    },
+    "plural": "Rottöne",
+    "meaning": "the shade of red",
+    "example": "Der Rotton passt gut zu deinem Outfit.",
+    "example_en": "The shade of red goes well with your outfit."
+  },
+  {
+    "id": "sprache-Nominativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "die",
+    "word": "Sprache",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Sprache",
+    "plural": "Sprachen",
+    "meaning": "language",
+    "example": "Die Sprache ist schwer zu lernen.",
+    "example_en": "The language is difficult to learn."
+  },
+  {
+    "id": "tag-Nominativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "der",
+    "word": "Tag",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Tag",
+    "plural": "Tage",
+    "meaning": "day",
+    "example": "Der Tag beginnt mit einem Kaffee.",
+    "example_en": "The day begins with a coffee."
+  },
+  {
+    "id": "taxifahrt-Nominativ",
+    "category": {
+      "name": "Transportation",
+      "slug": "transportation"
+    },
+    "article": "die",
+    "word": "Taxifahrt",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Taxifahrt",
+    "plural": "Taxifahrten",
+    "meaning": "taxi ride",
+    "example": "Die Taxifahrt dauert nur zehn Minuten.",
+    "example_en": "The taxi ride only takes ten minutes."
+  },
+  {
+    "id": "termin-Nominativ",
+    "category": {
+      "name": "Others",
+      "slug": "others"
+    },
+    "article": "der",
+    "word": "Termin",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Termin",
+    "plural": "Termine",
+    "meaning": "appointment / meeting",
+    "example": "Der Termin ist am Montag um 10 Uhr.",
+    "example_en": "The appointment is on Monday at 10 o’clock."
+  },
+  {
+    "id": "tisch-Nominativ",
+    "category": {
+      "name": "Objects",
+      "slug": "objects"
+    },
+    "article": "der",
+    "word": "Tisch",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Tisch",
+    "plural": "Tische",
+    "meaning": "table",
+    "example": "Der Tisch ist rund.",
+    "example_en": "The table is round."
+  },
+  {
+    "id": "vater-Nominativ",
+    "category": {
+      "name": "People & Family",
+      "slug": "people-family"
+    },
+    "article": "der",
+    "word": "Vater",
+    "case_name": "Nominativ",
+    "articleByCase": "der",
+    "wordByCase": "Vater",
+    "plural": "Väter",
+    "meaning": "father",
+    "example": "Der Vater liest die Zeitung.",
+    "example_en": "The father reads the newspaper."
+  },
+  {
+    "id": "wetter-Nominativ",
+    "category": {
+      "name": "Nature & Environment",
+      "slug": "nature-environment"
+    },
+    "article": "das",
+    "word": "Wetter",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Wetter",
+    "plural": "-",
+    "meaning": "weather",
+    "example": "Das Wetter ist heute sehr schön.",
+    "example_en": "The weather is very nice today."
+  },
+  {
+    "id": "wochenende-Nominativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "das",
+    "word": "Wochenende",
+    "case_name": "Nominativ",
+    "articleByCase": "das",
+    "wordByCase": "Wochenende",
+    "plural": "Wochenenden",
+    "meaning": "weekend",
+    "example": "Das Wochenende ist entspannend.",
+    "example_en": "The weekend is relaxing."
+  },
+  {
+    "id": "zeit-Nominativ",
+    "category": {
+      "name": "Time",
+      "slug": "time"
+    },
+    "article": "die",
+    "word": "Zeit",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Zeit",
+    "plural": "Zeiten",
+    "meaning": "time",
+    "example": "Die Zeit vergeht schnell.",
+    "example_en": "Time passes quickly."
+  },
+  {
+    "id": "ärztin-Nominativ",
+    "category": {
+      "name": "Professions",
+      "slug": "professions"
+    },
+    "article": "die",
+    "word": "Ärztin",
+    "case_name": "Nominativ",
+    "articleByCase": "die",
+    "wordByCase": "Ärztin",
+    "plural": "Ärztinnen",
+    "meaning": "doctor (female)",
+    "example": "Die Ärztin hilft den Patienten.",
+    "example_en": "The doctor helps the patients."
+  }
+]
