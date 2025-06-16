@@ -148,7 +148,9 @@ const WordCollection = ({ isAdmin = false }) => {
       } min-h-screen/2  w-full px-6 ${isAdmin ? "py-0" : "md:py-10"}`}
     >
       <div
-        className={`sticky top-44 flex flex-col md:flex-row items-end sm:flex-wrap border-b border-neutral-200 ${
+        className={`${
+          !isAdmin && "sticky top-44"
+        } flex flex-col md:flex-row items-end sm:flex-wrap border-b border-neutral-200 ${
           isAdmin ? "bg-neutral-100" : "bg-bground"
         } z-10 flex justify-end mb-4`}
       >
