@@ -4,7 +4,7 @@
 
 This project aims to simplify the process of understanding how articles change across different cases — **Nominativ, Akkusativ, Dativ, and Genitiv** — using color cues, examples, and structured presentation.
 
-🧪 For demonstration purposes, only a limited set of data is included in this repository. In a full-scale version, the app supports hundreds of words with detailed case information, plural forms, and contextual example sentences.
+For demonstration purposes, only a limited set of data is included in this repository. In a full-scale version, the app supports hundreds of words with detailed case information, plural forms, and contextual example sentences.
 
 <details>
   <summary>Table of Contents</summary>
